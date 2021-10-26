@@ -125,3 +125,10 @@ gt_corr_i - скорректированное действительное со
 ##
 [Пользовательское соглашение](https://api.dsworks.ru/dsworks-transfer/api/v1/public/file/terms_of_use.pdf/download)  
 [Правила соревнования](https://api.dsworks.ru/dsworks-transfer/api/v1/public/file/rules.pdf/download)
+
+## WORKFLOW
+- Code rewiew - Лицензия микрософт висио
+- Pull request - 10 бипок
+- Комментарии по коду - одна пипяка, больше 5 комментариев = code rewiew 
+![It-lead проекта](https://i.postimg.cc/t4zQHQPQ/photo-2021-10-27-01-08-39.jpg)
+
