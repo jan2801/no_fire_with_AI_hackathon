@@ -1,0 +1,4 @@
+{
+    "image": "cr.msk.sbercloud.ru/aicloud-base-images-test/custom/aij2021/infire:f66e1b5f-1269",
+    "entrypoint": "python3 /home/jovyan/solution.py"
+}
