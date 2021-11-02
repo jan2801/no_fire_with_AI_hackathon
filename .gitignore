@@ -1,7 +1,5 @@
 *.pt
 *.pkl
-*.geojson
-*.csv
 
 *.vscode/
 __pycache__/

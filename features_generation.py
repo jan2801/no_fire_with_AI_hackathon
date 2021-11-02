@@ -42,7 +42,7 @@ def add_cat_date_features(df):
     df["month"] = df["dt"].dt.month
     df["day"] = df["dt"].dt.day
     df["weekofyear"] = df["dt"].dt.weekofyear
-    df["dayofweek"] = df["dt"].dt.week
+    df["dayofweek"] = df["dt"].dt.dayofweek
     return df
 
 
